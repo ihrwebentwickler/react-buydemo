@@ -1,10 +1,10 @@
 # React Buy-Demo
 - an react-appdemo to put products in a shopping cart and edit this shopping cart
 - uses Typescript and SCSS
-- REST-API with live-data over https://swapi.dev/ and React-Modul Axios
+- REST-API with live-data and React-Modul Axios
 - Implemented Redux-Store
-- Some tests written with Jest
 
+Checkout and run App with ### `npm start`.
 
 # Getting Started with Create React App
 
